@@ -1,0 +1,4 @@
+# 除外ファイル
+.byebug_history
+.env
+log.txt
